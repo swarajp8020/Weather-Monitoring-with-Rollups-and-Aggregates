@@ -1,8 +1,3 @@
-# Weather-Monitoring-with-Rollups-and-Aggregates
-Here’s a sample `README.md` file for the **Real-Time Data Processing System for Weather Monitoring** project:
-
----
-
 # Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
 
 ## Overview
